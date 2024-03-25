@@ -1,5 +1,8 @@
 # British_Airways_Review_Analysis
 
+![Screenshot 2024-03-25 122910](https://github.com/Safeedha-7/British_Airways_Review_Analysis/assets/147964860/e6f084ce-09e6-4155-bc9a-7cad3b691d4f)
+
+
 ## Project Overview
 
 Embark on a journey through British Airways passenger reviews with an interactive [Tableau dashboard](https://public.tableau.com/views/BritishAirwaysReview_17084449889350/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link). The project offers a comprehensive analysis of customer feedback, providing valuable insights into the airline's performance and passenger satisfaction.
